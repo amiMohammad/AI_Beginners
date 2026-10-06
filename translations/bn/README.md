@@ -12,7 +12,7 @@
 
 [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/nTYy5BXMWG)
 
-# আর্টিফিশিয়াল ইন্টেলিজেন্স ফর বিগিনার্স - একটি পাঠ্যক্রম
+# আর্টিফিশিয়াল ইন্টেলিজেন্স বিগিনার্স-দের জন্য - একটি পাঠ্যক্রম
 
 |![Sketchnote by @girlie_mac https://twitter.com/girlie_mac](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)|
 |:---:|
