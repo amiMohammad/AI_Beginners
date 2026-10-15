@@ -16,7 +16,7 @@
 
 |![Sketchnote by @girlie_mac https://twitter.com/girlie_mac](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)|
 |:---:|
-| AI For Beginners - _স্কেচনোট [@girlie_mac](https://twitter.com/girlie_mac) দ্বারা_ |
+| AI For Beginners - _স্কেচনোটটি তৈরী করেছেন [@girlie_mac](https://twitter.com/girlie_mac)|
 
 আমাদের ১২ সপ্তাহ এবং ২৪টি পাঠের পাঠ্যক্রমের মাধ্যমে **আর্টিফিশিয়াল ইন্টেলিজেন্স** (AI) এর জগৎ আবিষ্কার করুন! এতে রয়েছে ব্যবহারিক পাঠ, কুইজ এবং ল্যাব। এই পাঠ্যক্রমটি শিক্ষানবিস-বান্ধব এবং এতে TensorFlow ও PyTorch এর মতো টুলগুলি এবং AI-তে নৈতিকতা অন্তর্ভুক্ত রয়েছে।
 
